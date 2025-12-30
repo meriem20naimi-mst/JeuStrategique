@@ -13,3 +13,13 @@ Boubei Elkal Gougouma
 Dusabe Landry
 Naimi Meriem
 Niyibogora Jean Claude
+
+## How to Run the Project
+
+1. Open the project using IntelliJ IDEA.
+2. Make sure a Java JDK is configured.
+3. Navigate to app/Main.java.
+4. Run the Main class.
+
+The program starts the game session using the Game engine.
+
